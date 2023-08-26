@@ -8,22 +8,22 @@ import service4 from '../images/services__4.png'
 
 const servicesData = [
     {
-        image: service1,
+        image: service1.src,
         title: "Professonal Kitchen",
         desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, odio.",
     },
     {
-        image: service2,
+        image: service2.src,
         title: "Delivery",
         desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, odio.",
     },
     {
-        image: service3,
+        image: service3.src,
         title: "Wine List",
         desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, odio.",
     },
     {
-        image: service4,
+        image: service4.src,
         title: "Free Wifi",
         desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, odio.",
     },
