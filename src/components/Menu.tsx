@@ -9,42 +9,42 @@ import pizza from "../images/pizza.jpg";
 
 const menuData = [
     {
-        img: cake,
+        img: cake.src,
         title: "bancake",
         desc: "2x tuna sahimi, 1x noodles",
         price: "$29.50",
         category: "Dessert",
     },
     {
-        img: pizza,
+        img: pizza.src,
         title: "Italian Pizza",
         desc: "2x tuna sahimi, 1x noodles",
         price: "$29.50",
         category: "Main Course",
     },
     {
-        img: pizza,
+        img: pizza.src,
         title: "Egg omelete",
         desc: "2x tuna sahimi, 1x noodles",
         price: "$20.50",
         category: "Breakfast",
     },
     {
-        img: cake,
+        img: cake.src,
         title: "bancake",
         desc: "2x tuna sahimi, 1x noodles",
         price: "$29.50",
         category: "Dessert",
     },
     {
-        img: pizza,
+        img: pizza.src,
         title: "Italian Pizza",
         desc: "2x tuna sahimi, 1x noodles",
         price: "$29.50",
         category: "Main Course",
     },
     {
-        img: pizza,
+        img: pizza.src,
         title: "Egg omelete",
         desc: "2x tuna sahimi, 1x noodles",
         price: "$20.50",
